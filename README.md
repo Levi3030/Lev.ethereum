@@ -48,6 +48,6 @@ contract MyToken {
 Contributors names and contact info
 
 Johm Vinas  
-[Facebook.com/johnlevi30] (https://web.facebook.com/johnlevi30/)
+https://web.facebook.com/johnlevi30/
 
 
